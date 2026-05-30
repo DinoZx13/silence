@@ -1,0 +1,6 @@
+# Bỏ qua tất cả
+*
+# Chỉ giữ lại
+!.gitignore
+!缄默之秋配置小助手.js
+!缄默之秋配置小助手.min.js
