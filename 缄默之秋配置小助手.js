@@ -1,6 +1,6 @@
 // ═══════════════ Trợ lý Mùa Thu Tĩnh Lặng ═══════════════
 // Chỉ cần dán dòng sau vào TavernHelper:
-//   import 'https://testingcf.jsdelivr.net/gh/NLKASHEI/233456@v1.0.7/TroLyCauHinhMuaThuTinhLang.min.js'
+//   import 'https://testingcf.jsdelivr.net/gh/DinoZx13/silence@v1.0.7/缄默之秋配置小助手.min.js'
 // ═══════════════════════════════════════════════════════════
 
 const JMZQ_VERSION = '1.0.7';
